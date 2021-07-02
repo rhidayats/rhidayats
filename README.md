@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhidayats
+- 👋 Hi, I’m Rahmat
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Project about Machine Learning and Artificial Intelligence
